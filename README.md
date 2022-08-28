@@ -1,5 +1,5 @@
 ### Welcome to my github page
-I am currently working on my Master's thesis about human pose estimation of adult-child interaction.
+I have recently finished my Master's thesis about human pose estimation of adult-child interaction.
 
 ## Interesting repositories/projects
 I have a few public repositories with a more detailed explanation:
